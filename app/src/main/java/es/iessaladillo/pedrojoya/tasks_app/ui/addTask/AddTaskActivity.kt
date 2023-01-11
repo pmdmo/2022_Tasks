@@ -5,8 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import es.iessaladillo.pedrojoya.tasks_app.R
 import es.iessaladillo.pedrojoya.tasks_app.utils.addMenuProvider
 
-private const val STATE_CATEGORY: String = "STATE_CATEGORY"
-
 class AddTaskActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
